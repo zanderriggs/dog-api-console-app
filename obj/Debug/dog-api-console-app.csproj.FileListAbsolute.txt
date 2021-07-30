@@ -1,0 +1,10 @@
+C:\git\dog-api-console-app\bin\Debug\dog-api-console-app.exe.config
+C:\git\dog-api-console-app\bin\Debug\dog-api-console-app.exe
+C:\git\dog-api-console-app\bin\Debug\dog-api-console-app.pdb
+C:\git\dog-api-console-app\bin\Debug\Newtonsoft.Json.dll
+C:\git\dog-api-console-app\bin\Debug\Newtonsoft.Json.xml
+C:\git\dog-api-console-app\obj\Debug\dog-api-console-app.csproj.AssemblyReference.cache
+C:\git\dog-api-console-app\obj\Debug\dog-api-console-app.csproj.CoreCompileInputs.cache
+C:\git\dog-api-console-app\obj\Debug\dog-api-console-app.csproj.CopyComplete
+C:\git\dog-api-console-app\obj\Debug\dog-api-console-app.exe
+C:\git\dog-api-console-app\obj\Debug\dog-api-console-app.pdb

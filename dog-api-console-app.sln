@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dog-api-console-app", "dog-api-console-app.csproj", "{8E4F1CEA-6AA2-4493-BB8B-95067ACB60FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E4F1CEA-6AA2-4493-BB8B-95067ACB60FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E4F1CEA-6AA2-4493-BB8B-95067ACB60FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E4F1CEA-6AA2-4493-BB8B-95067ACB60FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E4F1CEA-6AA2-4493-BB8B-95067ACB60FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00513FF7-5153-4114-B527-A13DD69B0B27}
+	EndGlobalSection
+EndGlobal
